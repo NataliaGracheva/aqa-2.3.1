@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4lpaeyxe3k8t5lvi?svg=true)](https://ci.appveyor.com/project/NataliaGracheva/aqa-3-2-1)
+
 # Домашнее задание к занятию «2.3. Patterns»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
